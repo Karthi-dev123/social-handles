@@ -46,6 +46,7 @@ body{
     gap: 10px;
     transition: all 0.3s ease;
     box-shadow: 3px 3px 0 #000;
+    width: 100%;
   }
 
   /* GitHub Button */
@@ -93,3 +94,6 @@ body{
   i {
     font-size: 20px;
   }
+.link{
+  text-decoration: none;
+}
